@@ -1,0 +1,9 @@
+$primary-color: #000000;
+
+@font-face{
+  font-family: 'Atkinson';
+  src: url('../assets/fonts/Atkinson_Hyperlegible/AtkinsonHyperlegible-Regular.ttf') format('woff2')
+}
+body {
+  background: url("../assets/images/West-Campus.png");
+}
